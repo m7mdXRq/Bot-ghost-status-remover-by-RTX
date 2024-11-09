@@ -32,11 +32,11 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Powered By M7mdXr`);
 });
 
 
-const statusMessages = ["dicord.gg/ValoVault"];
+const statusMessages = ["Made By M7mdXr"];
 
 
 let currentIndex = 0;
